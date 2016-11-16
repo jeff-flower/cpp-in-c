@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// reference c++ function
+// function signature must match
 extern int color();
 
 int main()
